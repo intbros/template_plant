@@ -1,0 +1,25 @@
+{
+  "plant": [
+    {
+      "title": "Plant Name",
+      "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, diam nonummy.",
+      "image": "assets/images/plant_image01.png",
+      "price": "10",
+      "like": 4
+    },
+    {
+      "title": "Plant Name",
+      "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, diam nonummy.",
+      "image": "assets/images/plant_image01.png",
+      "price": "10",
+      "like": 3
+    },
+    {
+      "title": "Plant Name",
+      "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, diam nonummy.",
+      "image": "assets/images/plant_image01.png",
+      "price": "10",
+      "like": 2
+    }
+  ]
+}
