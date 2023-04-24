@@ -3,7 +3,7 @@
 Flutter UI Template.
 
 # screen shot
-![screenshot](https://user-images.githubusercontent.com/131420470/233901960-92dbf1ab-8b8d-4828-8375-e00ed886a001.png) | ![screenshot](https://user-images.githubusercontent.com/131420470/233901985-043b8175-663d-4552-a4e1-9a34c835300d.png)
+![screenshot](https://user-images.githubusercontent.com/131420470/233901960-92dbf1ab-8b8d-4828-8375-e00ed886a001.png) | ![screenshot2](https://user-images.githubusercontent.com/131420470/233901985-043b8175-663d-4552-a4e1-9a34c835300d.png)
 
 ## Getting Started
 
